@@ -27,6 +27,10 @@ Here are some ideas to get you started:
   <img align="center" alt="MarlonSantosDev-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="MarlonSantosDev-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="MarlonSantosDev-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
+  <img align="center" alt="MarlonSantosDev-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="MarlonSantosDev-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+  <img align="center" alt="MarlonSantosDev-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+          
 </div>
   
 ##
@@ -37,3 +41,5 @@ Here are some ideas to get you started:
     <img alingn="center" src="https://profile-counter.glitch.me/MarlonSantosDev/count.svg" />
     </p>
 </p>
+
+
